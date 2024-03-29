@@ -1,0 +1,12 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+html body{
+  padding: 0px;
+  margin: 0px;
+  background-color: grey;
+}
+
+.container {
+  margin: 20px;
+}
